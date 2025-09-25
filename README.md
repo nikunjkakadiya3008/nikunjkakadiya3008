@@ -1,5 +1,5 @@
 <div align="center">
-<h1><hr>Hello! I am Nikunj.<hr></h1>
+
 
 [![GitHub Insights-light](https://github-stats-sable-beta.vercel.app/api?username=nikunjkakadiya3008&show=prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_blue&border_radius=15&include_all_commits=false&custom_title=%E2%80%A2%20Insights%20%3A%3A%3A)](https://github.com/nikunjkakadiya3008#gh-light-mode-only)
 
@@ -146,7 +146,7 @@
 #### Design & Creative Tools:
 ![Canva](https://img.shields.io/badge/canva-FF5733?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe-A259FF?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobexd-A259FF?style=for-the-badge&logo=adobexd&logoColor=white)
 
 #### Core Computer Science:
 ![DSA](https://img.shields.io/badge/Data--Structures%20%26%20Algorithms-009B9A?style=for-the-badge&logo=nodered&logoColor=white)
