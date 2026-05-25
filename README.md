@@ -1,5 +1,3 @@
 <div align="center">
-![JavaScript](...)
-![React](...)
-![Angular](...)
+JavaScript | React | Angular | Supabase | Ai Development
 </div>
